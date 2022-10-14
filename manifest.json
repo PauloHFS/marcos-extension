@@ -1,0 +1,22 @@
+{
+    "name": "Marcos Extension",
+    "short_name": "marcos-extension",
+    "version": "1.0.0",
+    "description": "Corrige o nome de Marcos em todos os sites",
+    "manifest_version": 3,
+    "author": "Paulo Hernane",
+    "action": {
+        "default_title": "Marcos Extension"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "index.js"
+            ],
+            "all_frames": true
+        }
+    ]
+}
