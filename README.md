@@ -1,6 +1,6 @@
 # marcos-extension
 
-Está é uma simples extensão para demostrar nosso amor por @Marcos.
+Esta é uma simples extensão para demostrar nosso amor por @marcosgqb.
 
 ### TODOS:
 
